@@ -1,0 +1,22 @@
+{
+  "name": "programming-languages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fanetupcil/nodejs.git"
+  },
+  "author": "Stefan Tupcil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fanetupcil/nodejs/issues"
+  },
+  "homepage": "https://github.com/fanetupcil/nodejs#readme",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
